@@ -3,28 +3,13 @@ import Logo from "../assets/logo.png";
 
 const Footer = () => {
   return (
-    <footer className="footer sm:footer-horizontal bg-[#001931] text-neutral-content p-10">
-      <aside>
-        <svg
-          width="50"
-          height="50"
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-          fillRule="evenodd"
-          clipRule="evenodd"
-          className="fill-current"
-        ></svg>
-
-        <div className="flex items-center gap-2 ">
-          <img className="w-12 h-full" src={Logo} alt="" />
-          <p className="text-lg font-bold">Hero Apps </p>
-        </div>
-      </aside>
-      <div className="">
-        <p className="mt-20">Copyright © 2025 - All right reserved</p>
+    <footer className="footer footer-horizontal footer-center bg-[#001931]  rounded p-10 text-white">
+      <div className="flex items-center justify-center">
+        <img className="w-12 h-full" src={Logo} alt="" />
+        <h1 className="text-lg font-bold">Hero Apps</h1>
       </div>
       <nav>
-        <h6 className="footer-title">Social Links </h6>
+        <p className="font-semibold">Social Links</p>
         <div className="grid grid-flow-col gap-4">
           <a>
             <svg
@@ -61,6 +46,12 @@ const Footer = () => {
           </a>
         </div>
       </nav>
+      <aside>
+        <p>
+          Copyright © {new Date().getFullYear()} - All right reserved by ACME
+          Industries Ltd
+        </p>
+      </aside>
     </footer>
   );
 };

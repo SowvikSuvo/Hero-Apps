@@ -5,8 +5,8 @@ import { Github } from "lucide-react";
 
 const Navbar = () => {
   return (
-    <div className="navbar  bg-base-500 shadow-sm">
-      <div className="navbar-start w-11/12s">
+    <div className="navbar  bg-base-500 shadow-lg ">
+      <div className="navbar-start w-11/12s ">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
             <svg
@@ -42,12 +42,12 @@ const Navbar = () => {
         </div>
         <div className="flex items-center ">
           <img className="w-12 h-full ml-3" src={logoImg} alt="" />
-          <Link to="/" className="btn btn-ghost text-xl ">
+          <Link to="/" className="btn btn-ghost text-2xl ">
             Hero Apps
           </Link>
         </div>
       </div>
-      <div className="navbar-center hidden lg:flex">
+      <div className="navbar-center hidden lg:flex ">
         <ul className="menu menu-horizontal px-1">
           <li>
             <NavLink to="/">Home</NavLink>

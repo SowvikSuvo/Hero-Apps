@@ -286,5 +286,150 @@
       { "name": "4 star", "count": 1300 },
       { "name": "5 star", "count": 1500 }
     ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/m592B4Pt/7058b993-32ec-4e5c-8fa2-70c6bb7aac4e.jpg",
+    "title": "Quantum Leap Game",
+    "companyName": "Infinity Play Studios",
+    "id": 117,
+    "description": "A challenging 3D puzzle game based on time manipulation physics.",
+    "size": 350.5,
+    "reviews": 95000,
+    "ratingAvg": 4.7,
+    "downloads": 8100000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 28500 },
+      { "name": "5 star", "count": 59000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/m5Yy4DTC/1a6e8417-4d3e-46ac-b4ed-fb964f2dba81.jpg",
+    "title": "Home Garden Planner",
+    "companyName": "GreenThumb Tech",
+    "id": 118,
+    "description": "Plan your vegetable and flower garden layout with seasonal planting guides.",
+    "size": 65.2,
+    "reviews": 6800,
+    "ratingAvg": 4.2,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RGJy0Fxk/Se-llama-ELSA-SPEAK-Tiene-versi-n-de-prueba.jpg",
+    "title": "SpeakEasy English",
+    "companyName": "LinguaLearn",
+    "id": 119,
+    "description": "Interactive language lessons focusing on conversational English fluency.",
+    "size": 120.0,
+    "reviews": 51000,
+    "ratingAvg": 4.8,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 29000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v6V4kVrK/098a10a8-97e7-43bc-8025-b8a1fa74f7c9.jpg",
+    "title": "SecureVault VPN",
+    "companyName": "NetShield Security",
+    "id": 120,
+    "description": "Fast and secure VPN service to protect your online privacy and data.",
+    "size": 33.1,
+    "reviews": 120000,
+    "ratingAvg": 4.0,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 43000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3mQckCfW/9525eb58-ac18-4e2f-ad59-877d4d44f397.jpg",
+    "title": "E-Book Reader Plus",
+    "companyName": "PageTurner Digital",
+    "id": 121,
+    "description": "Customizable e-reader with support for multiple file formats and cloud sync.",
+    "size": 50.9,
+    "reviews": 38000,
+    "ratingAvg": 4.6,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 13000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QFr9M55V/3d33e13d-053d-48a4-b579-49532e07cb42.jpg",
+    "title": "CAD Design Mobile",
+    "companyName": "Precision Tools LLC",
+    "id": 122,
+    "description": "On-the-go 2D and basic 3D drafting and technical drawing application.",
+    "size": 190.3,
+    "reviews": 4200,
+    "ratingAvg": 3.7,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cKqmJXcX/Best-Sleep-Tracking-App-UI-design-by-CMARIX.jpg",
+    "title": "Aura Sleep Tracker",
+    "companyName": "Restful Solutions",
+    "id": 123,
+    "description": "Monitors sleep cycles, provides personalized insights, and white noise generator.",
+    "size": 42.6,
+    "reviews": 16000,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cSggSRQR/Decorate-laptops-Hydro-Flasks-cars-and-more-with.jpg",
+    "title": "Retro Arcade Classics",
+    "companyName": "Nostalgia Gaming Co.",
+    "id": 124,
+    "description": "A collection of 20 classic 8-bit arcade games optimized for mobile play.",
+    "size": 280.0,
+    "reviews": 75000,
+    "ratingAvg": 4.3,
+    "downloads": 9800000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 40000 }
+    ]
   }
 ]
