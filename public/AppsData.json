@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.ibb.co.com/tPCSH3h0/0qzd-a78z-230113.jpg",
+    "title": "AstroExplorer",
+    "companyName": "Galactic Software Inc.",
+    "id": 101,
+    "description": "Explore the cosmos with interactive maps and real-time satellite tracking.",
+    "size": 150.5,
+    "reviews": 12450,
+    "ratingAvg": 4.6,
+    "downloads": 875000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RGQL2fzL/10143605.jpg",
+    "title": "RecipeGenius",
+    "companyName": "CookPro Solutions",
+    "id": 102,
+    "description": "Your personal cooking assistant with thousands of recipes and meal planning.",
+    "size": 45.2,
+    "reviews": 2580,
+    "ratingAvg": 4.1,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 880 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/B2FK4sYK/4412379.jpg",
+    "title": "CodeFlow IDE",
+    "companyName": "DevTools Global",
+    "id": 103,
+    "description": "A lightweight mobile code editor supporting multiple programming languages.",
+    "size": 88.0,
+    "reviews": 5600,
+    "ratingAvg": 4.8,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wNZZgbgw/2570616.jpg",
+    "title": "ZenFocus Timer",
+    "companyName": "Mindful Apps Ltd.",
+    "id": 104,
+    "description": "A productivity timer with calming sounds and customizable work/break cycles.",
+    "size": 22.1,
+    "reviews": 18900,
+    "ratingAvg": 4.7,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 12860 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZRM9gyh2/368391-PB8-GEP-866.jpg",
+    "title": "PixelArt Maker",
+    "companyName": "Creative Canvas",
+    "id": 105,
+    "description": "Design and share stunning pixel art creations on the go.",
+    "size": 61.9,
+    "reviews": 7200,
+    "ratingAvg": 4.4,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3xcY6kx/44072.jpg",
+    "title": "Global News Hub",
+    "companyName": "InfoStream Media",
+    "id": 106,
+    "description": "Aggregated news from top sources worldwide with custom feeds.",
+    "size": 35.7,
+    "reviews": 45000,
+    "ratingAvg": 4.2,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QjkT8jCX/10082482.jpg",
+    "title": "FitTrack Pro",
+    "companyName": "HealthMetrics Co.",
+    "id": 107,
+    "description": "Comprehensive fitness tracking, goal setting, and personalized workout plans.",
+    "size": 95.1,
+    "reviews": 32000,
+    "ratingAvg": 4.5,
+    "downloads": 2900000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8DjG58xq/10186931.jpg",
+    "title": "Pocket Translator",
+    "companyName": "Language Bridge Inc.",
+    "id": 108,
+    "description": "Instant translation for over 100 languages, voice and text input.",
+    "size": 72.8,
+    "reviews": 60000,
+    "ratingAvg": 4.0,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 27000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nsgPqTYJ/2880316.jpg",
+    "title": "PhotoFilter Max",
+    "companyName": "Visual Dynamics",
+    "id": 109,
+    "description": "Advanced photo editing with professional filters and effects.",
+    "size": 110.3,
+    "reviews": 15000,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 9200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/chxpNL5N/accountant-online-3.jpg",
+    "title": "Finance Buddy",
+    "companyName": "MoneySense Group",
+    "id": 110,
+    "description": "Track expenses, manage budgets, and achieve financial goals easily.",
+    "size": 40.6,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gL1PFf8C/amjith-s-UGlv-8-Qq06s-unsplash.jpg",
+    "title": "3D Model Viewer",
+    "companyName": "Spatial Tech",
+    "id": 111,
+    "description": "View and interact with common 3D model formats on your device.",
+    "size": 180.9,
+    "reviews": 1500,
+    "ratingAvg": 3.9,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bR66JdXb/82288183-46c7-4332-abd7-bf68157c464f.jpg",
+    "title": "StoryTime Kids",
+    "companyName": "EduPlay Apps",
+    "id": 112,
+    "description": "Interactive storytelling app for children with engaging animations.",
+    "size": 250.0,
+    "reviews": 22000,
+    "ratingAvg": 4.9,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 15600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QjkVfTgf/Task-Manager-Mobile-App-Design.jpg",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Hub",
+    "id": 113,
+    "description": "Advanced task management with collaboration and project tracking features.",
+    "size": 55.4,
+    "reviews": 10500,
+    "ratingAvg": 4.4,
+    "downloads": 920000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pjYNFG54/16452012-f437-4c7c-aeae-f2de17934da8.jpg",
+    "title": "WeatherScope",
+    "companyName": "SkyWatch Labs",
+    "id": 114,
+    "description": "Accurate, hyperlocal weather forecasts with hourly and 7-day outlooks.",
+    "size": 30.2,
+    "reviews": 75000,
+    "ratingAvg": 4.3,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 28500 },
+      { "name": "5 star", "count": 35000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/h1dQ8YS9/People-streaming-music-in-online-platfor.jpg",
+    "title": "Music Remix Studio",
+    "companyName": "AudioCreators",
+    "id": 115,
+    "description": "Create and mix your own music tracks with a wide range of virtual instruments.",
+    "size": 210.7,
+    "reviews": 4800,
+    "ratingAvg": 4.5,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/NdWc1S5Y/History-Quiz-App-by-Vikry-Pratama-on-Dribbble.jpg",
+    "title": "History Quizzer",
+    "companyName": "Trivia Masters",
+    "id": 116,
+    "description": "Test your knowledge with challenging history trivia from various eras.",
+    "size": 18.9,
+    "reviews": 3500,
+    "ratingAvg": 4.1,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  }
+]
