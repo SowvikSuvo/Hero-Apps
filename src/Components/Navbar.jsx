@@ -6,7 +6,7 @@ import "../index.css";
 
 const Navbar = () => {
   return (
-    <div className="navbar  bg-base-500 shadow-lg ">
+    <div className="navbar bg-white shadow-lg mb-8 ">
       <div className="navbar-start w-11/12s ">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -47,10 +47,10 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <div className="flex items-center ">
+        <div className="flex items-center md:ml-15">
           <img className="w-12 h-full ml-3" src={logoImg} alt="" />
           <Link to="/" className="btn btn-ghost text-2xl ">
-            HERO APPS
+            <h1> APPORA </h1>
           </Link>
         </div>
       </div>
@@ -73,11 +73,11 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
-      <div className="navbar-end">
+      <div className="navbar-end md:mr-15">
         <Link
           to="https://github.com/SowvikSuvo"
           target="https://github.com/SowvikSuvo"
-          className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white "
+          className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white hover:shadow-xl "
         >
           <span>
             <Github />

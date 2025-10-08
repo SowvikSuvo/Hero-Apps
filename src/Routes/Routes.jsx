@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     path: "/",
     element: <RootLayout></RootLayout>,
     // errorElement: <ErrorPage></ErrorPage>,
-    hydrateFallbackElement: <p>Loading...</p>,
+    // hydrateFallbackElement: <p>Loading...</p>,
     children: [
       {
         index: true,

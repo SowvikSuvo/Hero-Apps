@@ -16,7 +16,7 @@ const DetailsCard = ({ findData }) => {
   const handleAddData = (id) => {
     addInstallData(id);
     setInstalled(true);
-    toast("App is Installed!");
+    toast.success("App is Installed!");
   };
 
   return (
