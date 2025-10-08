@@ -2,6 +2,7 @@ import React from "react";
 import { Link, NavLink } from "react-router";
 import logoImg from "../assets/logo.png";
 import { Github } from "lucide-react";
+import "../index.css";
 
 const Navbar = () => {
   return (
@@ -30,33 +31,45 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
           >
             <li>
-              <NavLink to="/">Home</NavLink>
+              <NavLink className={"navs"} to="/">
+                Home
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/apps">Apps</NavLink>
+              <NavLink className={"navs"} to="/apps">
+                Apps
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/installation">Installation</NavLink>
+              <NavLink className={"navs"} to="/installation">
+                Installation
+              </NavLink>
             </li>
           </ul>
         </div>
         <div className="flex items-center ">
           <img className="w-12 h-full ml-3" src={logoImg} alt="" />
           <Link to="/" className="btn btn-ghost text-2xl ">
-            Hero Apps
+            HERO APPS
           </Link>
         </div>
       </div>
       <div className="navbar-center hidden lg:flex ">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <NavLink to="/">Home</NavLink>
+            <NavLink className="navs text-lg font-semibold" to="/">
+              Home
+            </NavLink>
           </li>
           <li>
-            <NavLink to="/apps">Apps</NavLink>
+            <NavLink className="navs text-lg font-semibold" to="/apps">
+              Apps
+            </NavLink>
           </li>
           <li>
-            <NavLink to="/installation">Installation</NavLink>
+            <NavLink className="navs text-lg font-semibold" to="/installation">
+              Installation
+            </NavLink>
           </li>
         </ul>
       </div>

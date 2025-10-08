@@ -1,12 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router";
 import HeroSection from "./HeroSection";
 import ApplicationCard from "../Components/ApplicationCard";
 import useApplications from "../Hooks/useApplications";
 
 const Home = () => {
+  const [data, setData] = useState();
   const { applications, loading, error } = useApplications();
-  
 
   const featuredApplications = applications.slice(0, 8);
 
