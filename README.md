@@ -55,5 +55,18 @@ This is a modern web platform where users can browse and download apps, just lik
 - globals — ^16.4.0  
 - vite — ^7.1.7  
 
+---
+
+### Deployment
+
+- Client: Netlify
+- Server: Vercel
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone the Repository
+```bash
+https://github.com/SowvikSuvo/3D-Model-Client.git
+cd 3D-Model-Client
 
 
