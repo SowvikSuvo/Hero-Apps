@@ -66,7 +66,7 @@ This is a modern web platform where users can browse and download apps, just lik
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/SowvikSuvo/3D-Model-Client.git
-cd 3D-Model-Client
+https://github.com/SowvikSuvo/Hero-Apps.git
+cd Hero-Apps
 
 
